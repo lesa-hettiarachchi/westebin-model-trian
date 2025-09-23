@@ -20,7 +20,7 @@ waste-bin/
 ├── Waste_Classifier_Colab.ipynb # Google Colab notebook
 ├── requirements.txt             # Python dependencies
 ├── README.md                   # This file
-└── demo.ipynb                  # Original demo (has errors)
+
 ```
 
 ## Installation
