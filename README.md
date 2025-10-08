@@ -1,6 +1,6 @@
 # Waste Classification System
 
-A comprehensive deep learning system for classifying waste as recyclable or non-recyclable using multiple pre-trained models, optimized for Google Colab with GPU acceleration.
+A deep learning model for classifying waste as recyclable or non-recyclable using multiple pre-trained models, optimized for Google Colab with GPU acceleration. In this part I focused on creating an image classification model and object detection part is currently developing seperately due to gpu limitations.
 
 ## Features
 
